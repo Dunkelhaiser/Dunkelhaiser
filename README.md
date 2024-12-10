@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kyrylo, a full-stack developer</div>  
   
 
-- 🔭 I’m currently working on Rank Sorter  
+- 🔭 I’m currently working on my diploma project - [Maps Modelier](https://github.com/Dunkelhaiser/maps-modelier)  
   
 
 <br/>  
